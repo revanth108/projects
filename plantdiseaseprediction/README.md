@@ -43,5 +43,3 @@ Accuracy	98.10%	95.08%
        Open Train_plant_disease.ipynb to retrain the model or view the preprocessing steps.
     4. Inference:
        The trained model is saved as trained_model.keras. You can load this using tf.keras.models.load_model() to predict new leaf images.
-
-Would you like me to create a requirements.txt file based on the libraries used in this notebook?
